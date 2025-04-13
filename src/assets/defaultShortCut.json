@@ -1,0 +1,252 @@
+[
+  {
+    "id": 0,
+    "name": "deepl翻译",
+    "url": "https://www.deepl.com/zh/translator"
+  },
+  {
+    "id": 1,
+    "name": "高德地图",
+    "url": "https://ditu.amap.com/"
+  },
+  {
+    "id": 2,
+    "name": "pexel图片",
+    "url": "https://www.pexels.com/zh-cn/"
+  },
+  {
+    "id": 3,
+    "name": "阿里云盘",
+    "url": "https://www.aliyundrive.com/drive/"
+  },
+  {
+    "id": 4,
+    "name": "Cloudflare",
+    "url": "https://dash.cloudflare.com/"
+  },
+  {
+    "id": 5,
+    "name": "QQ邮箱",
+    "url": "https://mail.qq.com/"
+  },
+  {
+    "id": 6,
+    "name": "GitHub",
+    "url": "https://github.com/"
+  },
+  {
+    "id": 7,
+    "name": "哔哩哔哩",
+    "url": "https://www.bilibili.com/"
+  },
+  {
+    "id": 8,
+    "name": "Python",
+    "url": "https://www.python.org/"
+  },
+  {
+    "id": 9,
+    "name": "Spring",
+    "url": "https://spring.io/"
+  },
+  {
+    "id": 10,
+    "name": "FreeFormatter",
+    "url": "https://www.freeformatter.com/"
+  },
+  {
+    "id": 11,
+    "name": "BEJSON",
+    "url": "https://www.bejson.com/"
+  },
+  {
+    "id": 12,
+    "name": "GTmetrix ",
+    "url": "https://gtmetrix.com/"
+  },
+  {
+    "id": 13,
+    "name": "Photopea",
+    "url": "https://www.photopea.com/"
+  },
+  {
+    "id": 14,
+    "name": "CSSBattle",
+    "url": "https://cssbattle.dev/"
+  },
+  {
+    "id": 15,
+    "name": "Readme生成器",
+    "url": "https://readme.so/"
+  },
+  {
+    "id": 16,
+    "name": "SO JSON解析工具",
+    "url": "https://www.sojson.com/"
+  },
+  {
+    "id": 17,
+    "name": "Transform",
+    "url": "https://transform.tools/"
+  },
+  {
+    "id": 18,
+    "name": "Convertio",
+    "url": "https://convertio.co/zh/"
+  },
+  {
+    "id": 19,
+    "name": "JSON Editor Online",
+    "url": "https://jsoneditoronline.org/"
+  },
+  {
+    "id": 20,
+    "name": "可汗学院",
+    "url": "https://zh.khanacademy.org/"
+  },
+  {
+    "id": 21,
+    "name": "超星尔雅",
+    "url": "http://erya.mooc.chaoxing.com/"
+  },
+  {
+    "id": 22,
+    "name": "Gson官方文档",
+    "url": "https://github.com/google/gson"
+  },
+  {
+    "id": 23,
+    "name": "Hugo",
+    "url": "https://gohugo.io/"
+  },
+  {
+    "id": 24,
+    "name": "JWT官方文档",
+    "url": "https://jwt.io/"
+  },
+  {
+    "id": 25,
+    "name": "菜鸟教程JSON指南",
+    "url": "https://www.runoob.com/json/json-tutorial.html"
+  },
+  {
+    "id": 26,
+    "name": "JSON Schema验证器",
+    "url": "https://www.jsonschema.net/"
+  },
+  {
+    "id": 27,
+    "name": "JSON Diff对比工具",
+    "url": "https://www.jsondiff.com/"
+  },
+  {
+    "id": 28,
+    "name": "JSON可视化工具",
+    "url": "https://jsoncrack.com/"
+  },
+  {
+    "id": 29,
+    "name": "API测试工具",
+    "url": "https://reqbin.com/"
+  },
+  {
+    "id": 30,
+    "name": "正则表达式测试",
+    "url": "https://regex101.com/"
+  },
+  {
+    "id": 31,
+    "name": "代码格式化",
+    "url": "https://codebeautify.org/"
+  },
+  {
+    "id": 32,
+    "name": "Markdown编辑器",
+    "url": "https://stackedit.io/"
+  },
+  {
+    "id": 33,
+    "name": "流程图制作",
+    "url": "https://www.drawio.com/"
+  },
+  {
+    "id": 34,
+    "name": "临时邮箱生成",
+    "url": "https://mail.deep-sea.dpdns.org"
+  },
+  {
+    "id": 35,
+    "name": "PDF转换器",
+    "url": "https://smallpdf.com/"
+  },
+  {
+    "id": 36,
+    "name": "配色方案生成",
+    "url": "https://coolors.co/"
+  },
+  {
+    "id": 37,
+    "name": "图标资源库",
+    "url": "https://www.flaticon.com/"
+  },
+  {
+    "id": 38,
+    "name": "字体识别工具",
+    "url": "https://www.whatfontis.com/"
+  },
+  {
+    "id": 39,
+    "name": "API目录",
+    "url": "https://public-apis.io/"
+  },
+  {
+    "id": 40,
+    "name": "SSL检测工具",
+    "url": "https://www.ssllabs.com/ssltest/"
+  },
+  {
+    "id": 41,
+    "name": "DNS查询工具",
+    "url": "https://dnschecker.org/"
+  },
+  {
+    "id": 42,
+    "name": "网站监控",
+    "url": "https://uptimerobot.com/"
+  },
+  {
+    "id": 43,
+    "name": "GitLab",
+    "url": "https://about.gitlab.com/"
+  },
+  {
+    "id": 44,
+    "name": "CDN检测工具",
+    "url": "https://check-host.net/"
+  },
+  {
+    "id": 45,
+    "name": "网页存档查询",
+    "url": "https://archive.org/web/"
+  },
+  {
+    "id": 46,
+    "name": "IP定位查询",
+    "url": "https://www.ipip.net/"
+  },
+  {
+    "id": 47,
+    "name": "网页性能分析",
+    "url": "https://web.dev/measure/"
+  },
+  {
+    "id": 48,
+    "name": "代码片段管理",
+    "url": "https://carbon.now.sh/"
+  },
+  {
+    "id": 49,
+    "name": "算法可视化",
+    "url": "https://visualgo.net/"
+  }
+]
